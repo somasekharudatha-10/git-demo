@@ -2,6 +2,5 @@ my name is soma sekhar udatha
 i am currently working as a junior software engineer intern at epam
 
 
-to test revert
--------------------------------
+again to test the git gui
 
